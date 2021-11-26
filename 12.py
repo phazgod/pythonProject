@@ -22,3 +22,4 @@ while(str!=''):
     str = input()
 
 print(_phys)
+print(_phys)
